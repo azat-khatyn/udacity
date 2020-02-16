@@ -2,10 +2,10 @@
 
 Modelling person's income based on the information about her/his education, marital status etc. 
 
-I did data exploration to find correlations and the best features to build the model on.  
-I also did data pre-processing including normalizing numerical features using MinMaxScaler and preprocessed the non-numeric features by one-hot encoding.
+Data exploration was made to find correlations and the best features to build the model on.  
+Data pre-processing included normalizing numerical features using MinMaxScaler as well as preprocessing the non-numeric features by one-hot encoding.
 
-I tried several algorithms including AdaBoost and RandomForest Classifiers as well as Logistic Regression. 
-I used grid search to find the best hyperparameters.
+Several algorithms were tried, including Logistic Regression, AdaBoost and RandomForest classifiers. 
+Grid search was used to find the best hyperparameters.
 
-I used Accuracy and F-Score to evaluate the models and compare their performances. 
+Accuracy and F-Score were the evaluation metrics to compare performance of the models. 
